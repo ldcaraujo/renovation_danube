@@ -1,0 +1,2 @@
+# $ conda install --file <this file>
+black=22.6.0=py310h5588dad_2

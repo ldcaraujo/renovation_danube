@@ -1,0 +1,12 @@
+# Cache of Python
+__pycache__/
+# Compiled Python files
+*.pyc
+# Python packages
+venv
+# Pycharm temporary files
+.idea/
+
+# Logs
+*.log
+
